@@ -1,3 +1,5 @@
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKevYGHM9m6b8vAukjlelFcOEXOLtWNcySw&usqp=CAU)
+
 # :wilted_flower: The Iris flower model
 A model that predicts the species of Iris flower _(iris setosa, iris versicolour, iris virginica)_ based on four different parameters namely sepal length, sepal width, petal length and petal width. 
 # :zap: Algorithm used 
